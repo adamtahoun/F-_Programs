@@ -1,2 +1,2 @@
-# F-_Programs
+# FSharp_Programs
 Functional Programming with F# :)
